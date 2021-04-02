@@ -1,4 +1,4 @@
-# Web Scraping Project - Retrieving Mobile App Reviews
+# Web Scraping and Sentiment Analysis Project - Retrieving Mobile App Reviews
 
 
 ## Table of Content
