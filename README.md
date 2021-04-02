@@ -9,6 +9,7 @@
   * [Directory Tree](#Directory-Tree)
   * [Technologies Used](#technologies-used)
   * [Team](#team)
+  * [VADER Credits](#VADER-Credits)
 
 ## Overview
 Web scraping project with Python and Selenium to retrive mobile app reviews from WEB. The ultimate goal is to use this data to analyse the Robinhood mobile app reviews to access the impact of the recent user complains about the company blocking user from buying some stocks, such as GME.
@@ -33,3 +34,6 @@ pip install -r requirements.txt
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
 [<img target="_blank" src="https://camo.githubusercontent.com/e5efd9b8f2106722c85415f104a352232a3a9437d765778aca491a2c2a7d5d6c/68747470733a2f2f6465762e70616e6461732e696f2f7374617469632f696d672f70616e6461732e737667" width=200>](https://pandas.pydata.org/) 
+
+## VADER Credits
+Hutto, C.J. & Gilbert, E.E. (2014). VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. Eighth International Conference on Weblogs and Social Media (ICWSM-14). Ann Arbor, MI, June 2014.
