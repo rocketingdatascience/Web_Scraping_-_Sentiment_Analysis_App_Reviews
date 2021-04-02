@@ -8,7 +8,6 @@
   * [Installation](#Installation)
   * [Directory Tree](#Directory-Tree)
   * [Technologies Used](#technologies-used)
-  * [Team](#team)
   * [VADER Credits](#VADER-Credits)
 
 ## Overview
